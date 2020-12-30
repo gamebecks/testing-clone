@@ -3,3 +3,4 @@ next line from local
 test fetching and pull
 now simple fetch
 again test fetch
+new test
