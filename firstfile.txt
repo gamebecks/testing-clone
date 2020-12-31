@@ -2,4 +2,5 @@ This is first file in source remote repo and check the conflict man
 test fetching and pull
 now simple fetch
 again test fetch
+done1
 
