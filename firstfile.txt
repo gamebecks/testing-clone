@@ -1,8 +1,8 @@
 This is first file in source remote repo.
 next line from local
-test fetching and pull
+test fetching and pullll
 now simple fetch
 again test fetch
 new test
 new line
-test line
+test linerr
