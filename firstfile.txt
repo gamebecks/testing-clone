@@ -9,4 +9,5 @@ test fetching and pull
 now simple fetch
 again test fetch
 new testtttt
+ok done
 
