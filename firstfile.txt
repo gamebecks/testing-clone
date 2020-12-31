@@ -5,3 +5,4 @@ now simple fetch
 again test fetch
 new test
 new line
+test line
