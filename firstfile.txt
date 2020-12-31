@@ -1,4 +1,4 @@
-This is first file in source remote repo.
+This is first file in source remote repo and check the conflict
 next line from
 test fetching and pull
 now simple fetch
