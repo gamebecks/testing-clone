@@ -4,3 +4,6 @@ now simple fetch
 again test fetch
 done1
 check local
+check remote
+
+
